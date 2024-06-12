@@ -7,4 +7,5 @@ public/
 .deploy*/
 .idea
 .github
+package-lock.json
 _multiconfig.yml
