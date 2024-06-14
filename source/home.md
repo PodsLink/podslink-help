@@ -1,28 +1,28 @@
+---
+title: 首页
+layout: home
+---
 * [Home](/hexo-theme-book-demo)
 * [Changelog](/hexo-theme-book-demo/changelog)
 
 # Test
 
 - [Privacy Policy](/2024/06/12/privacy/)
-- [Privacy Policy](/source/_posts/privacy.md)
 
-## hexo-unit-test
+## APP-FAQ
+- [Call noise](/app/call_noise)
+- [How do I turn on and off noise reduction on AirPods Pro](/app/reduction)
+- [Headphone noise cancellation](/app/noise_cancellation)
+- [Application power consumption problem](/app/power_consumption)
+- [Spatial audio](/app/spatial_audio)
+- [Headset name setting](/app/headset_name)
+- [The headset volume is relatively light](/app/lighter_voice)
+- [The notification bar is not displayed](/app/notification_bar)
+- [Status bar ICONS are not displayed](/app/Status_bar_icon)
+- [XIAOMI - Background resident Settings](/app/xiaomi_background)
+- [OPPO - Background resident Settings](/app/oppo_background)
+- [VIVO - Background resident Settings](/app/vivo_background)
 
-* [Categories](/hexo-theme-book-demo/test/hexo-unit-test/categories)
-* [Elements](/hexo-theme-book-demo/test/hexo-unit-test/elements)
-* [Excerpts](/hexo-theme-book-demo/test/hexo-unit-test/excerpts)
-* [Gallery Post](/hexo-theme-book-demo/test/hexo-unit-test/gallery-post)
-* [Hello World](/hexo-theme-book-demo/test/hexo-unit-test/hello-world)
-* [Images](/hexo-theme-book-demo/test/hexo-unit-test/images)
-* [Untitled](/hexo-theme-book-demo/test/hexo-unit-test/link-post-without-title)
-* [Link Post](/hexo-theme-book-demo/test/hexo-unit-test/link-post)
-* [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam justo turpis, tincidunt ac convallis id.](/hexo-theme-book-demo/test/hexo-unit-test/long-title)
-* [Untitled](/hexo-theme-book-demo/test/hexo-unit-test/no-title)
-* [Tag Plugins](/hexo-theme-book-demo/test/hexo-unit-test/tag-plugins)
-* [Tags](/hexo-theme-book-demo/test/hexo-unit-test/tags)
-* [Videos](/hexo-theme-book-demo/test/hexo-unit-test/videos)
-* [中文測試](/hexo-theme-book-demo/test/hexo-unit-test/中文測試)
-* [日本語テスト](/hexo-theme-book-demo/test/hexo-unit-test/日本語テスト)
 
 ## bugfix
 

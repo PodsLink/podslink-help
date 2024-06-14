@@ -1,7 +1,6 @@
 ---
 title: Privacy Policy
-date: 2024-06-12 18:20:45
-tags:
+date: 2024-06-13 17:33:45
 ---
 
 # Hello! You are welcome to use PodsLink.
@@ -136,13 +135,13 @@ tags:
         - Responding to your request will cause serious damage to the legitimate rights and interests of you or other people or organizations;
         - Involving trade secrets.
 ## Ⅳ. Information Security
-   - We only retain your personal information for the period necessary for the purposes described in this policy and within the time limit required by laws and regulations. We use various security technologies and procedures to prevent loss of information, improper use, unauthorized viewing or disclosure, and sharing. For example, in some services, we will use encryption technology (such as SSL) to protect the personal information you provide. However, please understand that due to technical limitations and various malicious methods that may exist, in the Internet industry, even if you do your best to strengthen security measures, it is impossible to always guarantee 100% security of information. You need to understand that the system and communication network you use to access our services may have problems due to factors outside our control.
+- We only retain your personal information for the period necessary for the purposes described in this policy and within the time limit required by laws and regulations. We use various security technologies and procedures to prevent loss of information, improper use, unauthorized viewing or disclosure, and sharing. For example, in some services, we will use encryption technology (such as SSL) to protect the personal information you provide. However, please understand that due to technical limitations and various malicious methods that may exist, in the Internet industry, even if you do your best to strengthen security measures, it is impossible to always guarantee 100% security of information. You need to understand that the system and communication network you use to access our services may have problems due to factors outside our control.
 
 ## V. Notification and Amendments
-   - We may revise the terms of this "Privacy Policy" in due course, and such revisions form part of this "Privacy Policy". For major changes, we will provide a more significant notice, and you can choose to stop using the PodsLink service; in this case, if you continue to use the PodsLink service, you agree to be bound by this revised "Privacy Policy". Any modification will put your satisfaction first. We encourage you to check our privacy policy every time you use the PodsLink service.
+- We may revise the terms of this "Privacy Policy" in due course, and such revisions form part of this "Privacy Policy". For major changes, we will provide a more significant notice, and you can choose to stop using the PodsLink service; in this case, if you continue to use the PodsLink service, you agree to be bound by this revised "Privacy Policy". Any modification will put your satisfaction first. We encourage you to check our privacy policy every time you use the PodsLink service.
 
 ## Ⅵ. Contact Us
-   - If you have any questions, comments or suggestions about this "Privacy Policy" or your personal privacy information, please contact us. Email address: xiaolongonly@gmail.com
-   - In general, we will respond within five tasks after receiving your questions, comments or suggestions and verifying your user identity. If you are not satisfied with our response, you can file a complaint with the consumer protection department or file a lawsuit in a court with jurisdiction.
+- If you have any questions, comments or suggestions about this "Privacy Policy" or your personal privacy information, please contact us. Email address: xiaolongonly@gmail.com
+- In general, we will respond within five tasks after receiving your questions, comments or suggestions and verifying your user identity. If you are not satisfied with our response, you can file a complaint with the consumer protection department or file a lawsuit in a court with jurisdiction.
 
 > Effective Date: 06 12, 2024
