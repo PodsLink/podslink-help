@@ -11,7 +11,7 @@ date: 2024-06-17 11:26:19
 - AirPods Pro2 is currently not supported due to limitations in the headset firmware. Support will be added after the headset firmware is updated.
 - Notes
   - In-ear detection is affected by the Apple headset protocol itself, and there is a 3 to 5 second delay.
-
 - What if in-ear detection doesn't work?
+
 #### 3. In-ear detection shield (Huaqiangbei headphones)
 - It supports setting the in-ear detection shield for Huaqiangbei headphones with unstable in-ear detection.

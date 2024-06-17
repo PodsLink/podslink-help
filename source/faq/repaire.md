@@ -2,11 +2,8 @@
 title: Repair headphones
 date: 2024-06-17 11:20:07
 ---
-
-
 1. First, smart connection headset
    - On the Settings screen of the application - Add Headphones - intelligently add an identification headset as prompted.
-
 2. Second, manually connect the headset
    1. First you need to put two headphones into the headset case, keeping the lid open.
    2. Press and hold the small dot on the back of the box for about 3 seconds to make the AirPods enter the pairing state.

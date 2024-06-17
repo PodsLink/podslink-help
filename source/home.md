@@ -2,32 +2,57 @@
 title: 首页
 layout: home
 ---
-* [Home](/hexo-theme-book-demo)
-* [Changelog](/hexo-theme-book-demo/changelog)
+## APP-FAQ
+- [Call noise](/faq/call_noise)
+- [How do I turn on and off noise reduction on AirPods Pro](/faq/noise_reduction)
+- [Earphone stealing](/faq/stealing)
+- [There is no sound in the headset](/faq/no_sound)
+- [Repair headphones](/faq/repaire)
+- [Headphone noise cancellation](/faq/noise_cancellation)
+- [Application power consumption problem](/faq/power_consumption)
+- [How to add desktop widgets](/faq/add_widgets)
+- [Non-automatic recognition](/faq/recognition)
+- [The earphone cover does not connect automatically](/faq/connect)
+- [Spatial audio](/faq/spatial_audio)
+- [Headset name setting](/faq/headset_name)
+- [The headset volume is relatively light](/faq/volume_light)
+- [The notification bar is not displayed](/faq/notification_bar)
+- [Status bar ICONS are not displayed](/faq/status_bar)
+- [Guide to in-ear detection](/faq/in_ear_detection)
+- [Applications do not pop up](/faq/not_pop_up)
+- [Battery access times out or does not update](/faq/battery_not_update)
+- [Charging capacity is not displayed](/faq/charging_not_displayed)
+- [How to display accurate power - to 1%](/faq/cacurate_power)
 
-# Test
+## Advanced Function
+- [Find headphones](/func/find_device)
+- [Audio control](/func/audio_control)
+- [Gesture control](/func/gesture_control)
+- [Desktop widget](/func/widget)
+- [Notification bar Settings](/func/notification_bar)
+- [The AirPods feature an exclusive dynamic popup window](/func/dynamic_pop)
+- [Simple theme making](/func/theme)
+- [Voice broadcast](/func/broadcast)
 
+## Relevant Considerations
+- [XIAOMI - Background resident Settings](/rel/xiaomi_back)
+- [OPPO - Background resident Settings](/rel/oppo_back)
+- [VIVO-Widget addition Guide](/rel/vivo_widget)
+- [VIVO - Background resident Settings](/rel/vivo_back)
+- [HUAWEI - Background resident Settings](/rel/huawei_back)
+- [Others - Background resident Settings](/rel/other_back)
+- [XIAOMI-Widget addition Guide](/rel/xiaomi_widget)
+- [HUAWEI - Widget addition Guide](/rel/huawei_widget)
+- [OPPO-Widget addition Guide](/rel/oppo_widget)
+
+## Basic introduction
+- [Supported headset models](/basic/headset_models)
+- [Pop-up window that automatically connects](/basic/auto_pop_up)
+- [Battery display](/basic/battery_display)
+- [Product introduction](/basic/intro)
+- [Matters needing attention](/basic/attention)
+
+
+## Other
 - [Privacy Policy](/2024/06/12/privacy/)
 
-## APP-FAQ
-- [Call noise](/app/call_noise)
-- [How do I turn on and off noise reduction on AirPods Pro](/app/reduction)
-- [Headphone noise cancellation](/app/noise_cancellation)
-- [Application power consumption problem](/app/power_consumption)
-- [Spatial audio](/app/spatial_audio)
-- [Headset name setting](/app/headset_name)
-- [The headset volume is relatively light](/app/lighter_voice)
-- [The notification bar is not displayed](/app/notification_bar)
-- [Status bar ICONS are not displayed](/app/Status_bar_icon)
-- [XIAOMI - Background resident Settings](/app/xiaomi_background)
-- [OPPO - Background resident Settings](/app/oppo_background)
-- [VIVO - Background resident Settings](/app/vivo_background)
-
-
-## bugfix
-
-* [list test](/hexo-theme-book-demo/test/bugfix/list-test)
-* [blockquote position](/hexo-theme-book-demo/test/bugfix/blockquote-position)
-* [checkbox list](/hexo-theme-book-demo/test/bugfix/checkbox-list)
-
-## lots of post in submenu

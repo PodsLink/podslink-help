@@ -3,17 +3,14 @@ title: Status bar ICONS are not displayed
 date: 2024-06-17 11:20:13
 ---
 1. The status bar icon belongs to the notification icon. The status bar icon is displayed only when the notification is displayed
-
 2. Make sure that the battery can be displayed in the popup window of the application, and the notification bar can be displayed normally
 <img src="status_bar/img.png" width="70%" alt="">
-
 3. If you are the following models, you can check the status bar of the relevant models.
 
 #### Huawei：
 - If the system is before Hongmeng 3.0
   1. In the phone's system Settings - Notification - More Notification Settings - enable notifications when the icon is displayed.
   2. In the phone's system Settings - Notifications - AndPods - AirPods Battery Status - Turn off silent notification.
-
 - Hongmeng 4.0 and above systems are forced to use APP icon display. We have submitted feedback on this issue at the Pollen Club and there is currently no solution.
 
 
