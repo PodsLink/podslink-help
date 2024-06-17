@@ -1,16 +1,7 @@
 
-## 自动发布
-
-```shell
-git init
-git reomte add origin git@github.com:PodsLink/docs.git
-git commit -am "fix"
-git  push
-cd -
-```
-
 ##
 > hexo new page --path privacy "privacy polity"
+
 ```shell
 hexo new page --path app/call_noise "Call noise"
 hexo new page --path app/reduction "Call noise reduction"

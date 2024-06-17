@@ -1,5 +1,3 @@
-* [Home](/hexo-theme-book-demo)
-* [Changelog](/hexo-theme-book-demo/changelog)
 
 # Test
 
