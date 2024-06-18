@@ -54,5 +54,5 @@ layout: home
 
 
 ## Other
-- [Privacy Policy](/2024/06/12/privacy/)
+- [Privacy Policy](/privacy)
 

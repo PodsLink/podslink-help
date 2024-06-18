@@ -4,14 +4,12 @@ date: 2024-06-13 17:33:45
 ---
 
 # Hello! You are welcome to use PodsLink.
-
 - PodsLink is an Android mobile phone application developed by XiaoLong, Ltd. The user displays the battery pop-up interface when the headset (AirPods headset or Beats headset, hereinafter referred to as headset) is connected to the Android phone, and can be displayed in the notification bar, Status bar, desktop gadgets and quick settings to check power. At present, there are functions such as pop-up window, in-ear detection, viewing headset positioning, and setting AirPods touch control.
 - PodsLink respects and protects the personal privacy of all users. In order to provide you with more accurate and personalized services, this software will use your personal information in accordance with the provisions of this privacy agreement. However, this software will treat this information with a high degree of diligence and prudence. Without your prior permission, this software will not disclose or provide this information to a third party. This software will update this privacy policy from time to time. When you agree to this software service use agreement, you are deemed to have agreed to the entire content of this privacy policy.
 
 ## I. Permissions and information obtained by PodsLink
 1. We will collect and use the following types of personal information from you for the following purposes:
    In order for you to use PodsLink's services normally, you need to provide us with some information in the following situations; we will also collect your information from third parties that legally store your information in the following situations. If you do not provide relevant information, you may not be able to register as our user or enjoy some of the services and functions we provide, or you may not be able to receive our notifications, or you may not be able to achieve the intended effects of the relevant services. Our ultimate purpose of collecting your personal information is to provide you with better products and services, and to optimize and enrich your user experience.
-
     1. Maintain the normal operation of basic functions
         - During your use of our services, we may directly or indirectly collect and store information about you in order to identify abnormal status of your account, understand product adaptability, ensure the network and operation security of the PodsLink service, and maintain the normal operation of the aforementioned basic functions. Information about the service used and how it is used and associating this information, including:
             - Log information: When you use our services, we may automatically collect your detailed usage of our services and save them as relevant web logs. For example: your login account, IP address, browser type, telecom operator, network environment, language used, date and time of visit, length of stay, refresh record.
@@ -22,15 +20,11 @@ date: 2024-06-13 17:33:45
         - When you contact our customer service or use other user response functions (such as submitting personal information protection complaints or suggestions, other customer complaints and needs), we may need you to provide the necessary personal information to match and verify your user identity in order to protect Your account and system security. We may also save your contact information (used when you contact us or other contact information you actively provide to us), your communication/call records and content with us, and other necessary information related to your needs, In order to contact you or help you solve the problem, or record the solution and result of the related problem.
     4. Your personal information we collected indirectly:
         - Based on the PodsLink service you choose to use, we may obtain relevant information that you have authorized to share from related parties and third-party partners. For example, when you use a third-party platform account to log in to the PodsLink service, we will obtain the relevant information under the third-party account (including: user name, nickname, avatar, and specific content subject to your authorization) according to your authorization. And after you agree to this policy, bind your third-party account with your PodsLink service account so that you can directly log in and use the PodsLink service through the third-party account. We will collect and use your information under the premise of complying with relevant laws and regulations, and in accordance with the agreement with the affiliates or third-party partners, and believing that the source of the information provided by them is legal.
-
     5. Improve our service
         - We may use the personal information collected through a certain PodsLink service for our other services: your personal information collected when you use a certain PodsLink service may be used in our other services to provide you with Provide specific content or show you information that is relevant to you but not generally pushed; we may allow you to participate in surveys about PodsLink services to help us improve existing services or design new services; at the same time, we may share your personal information Used for software updates. You understand and agree that after collecting your personal information, we will use technical means to de-identify the data. The de-identified personal information will not be able to identify you. In this case, we have the right to use the Identified personal information analyzes the user database and makes commercial use.
-
     6. Other uses
         - Please note that if we want to use your personal information for other purposes not specified in this "Privacy Policy" or collect additional personal information not mentioned, we will separately ask for your consent in advance (the way to confirm consent: Check, pop-up window, station letter, mail, short message method). Once you agree, these additional uses will be regarded as part of this "Privacy Policy", and this "Privacy Policy" will also apply to such additional personal information.
-
     7. You understand and agree that some individual services may require you to enable specific access permissions on your device to enable the collection and use of information related to these permissions. E.g:
-
         - Bluetooth's usage permission: Both the Bluetooth usage permission and the location permission are used to obtain the power of the low-power Bluetooth headset and are necessary permissions.
         - Location permissions: Bluetooth usage permissions and location permissions are both used to obtain the power of the low-power Bluetooth headset and are necessary permissions.
         - You need to turn on the high-precision positioning permission when using the search headset function, otherwise you don't need to turn it on.
@@ -43,7 +37,6 @@ date: 2024-06-13 17:33:45
         - Background operation permission (ignoring battery optimization, power saving policy is set to unlimited): Background operation permission ensures that the overall services and functions of the software (such as pop-up windows, real-time battery refresh) can run in the background, and this function must be turned on when using this function Permission to run in the background, otherwise you don't need to open it.
         - Accessibility permission: This permission is to enable the floating window (Smart Island function) to be covered on the "top status bar". Accessibility permission must be enabled when using this function, otherwise it is not necessary to open it
     8. To the extent permitted by laws and regulations, we may collect your personal information in the following situations without your authorization:
-
         - Related to national security and national defense security;
         - Related to public safety, public health, and major public interests;
         - Related to criminal investigation, prosecution, trial, and execution of judgments;
@@ -60,7 +53,6 @@ date: 2024-06-13 17:33:45
         - The information you provide to us when you register for the PodsLink service account or use the PodsLink service;
         - The shared information you provide to third parties through the PodsLink service, and the information stored when you use the PodsLink service.
         - Please note that if you publish your information in the public area visible to other users in the PodsLink service, or in your response to the information uploaded or published by other people, such information may be collected and released by others. Use it. When you find that others have improperly collected or used your information, you can contact us through the feedback channels listed in the "Contact Us" section of this policy.
-
     2. Your information shared by third parties. That is, the shared information about you provided by a third party when using the PodsLink service. Your information we have obtained. When you use the PodsLink service, we collect, aggregate, and record information, such as log information, location information, and device information.
     3. We obtained your information. When you use the PodsLink service, we collect, aggregate, and record information, such as log information, location information, and device information.
 3. How will we store your information
@@ -80,7 +72,6 @@ date: 2024-06-13 17:33:45
 2. How do we provide information to the outside world
     1. Business sharing
         - We promise to keep your information strictly confidential. Except as otherwise provided by laws, regulations and regulatory authorities, we will only share your information with third parties in the following situations, including our affiliates, cooperative financial institutions and other partners. If you need to share your information with a third party in order to provide you with services, we will evaluate the legality, legitimacy, and necessity of the third party's collection of information. We will require third parties to take protective measures for your information and strictly comply with relevant laws, regulations and regulatory requirements. In addition, we will obtain your consent in the form of confirmation agreements, copy confirmation in specific scenarios, and pop-up prompts in accordance with the requirements of laws, regulations and national standards, or confirm that the third party has obtained your consent.
-
     2. Transfer
         - We will not transfer your personal information to any company, organization or individual, except in the following cases:
             - Get your explicit consent in advance;
@@ -88,7 +79,6 @@ date: 2024-06-13 17:33:45
             - In the case of asset transfer, acquisition, merger, reorganization or bankruptcy liquidation, if the transfer of personal information is involved, we will inform you of the situation and require new companies and organizations that hold your personal information to continue to be subject to this policy Constraints. If the purpose of using personal information is changed, we will require the company or organization to obtain your explicit consent again.
     3. Delegated processing
         - In order to improve the efficiency of information processing, reduce the cost of information processing, or improve the accuracy of information processing, we may entrust our capable affiliates or other professional organizations to process information on our behalf. We will require the entrusted company to comply with strict confidentiality obligations and take effective confidentiality measures through written agreements and on-site audits, and prohibit them from using this information for purposes not authorized by you. When the entrusted relationship is terminated, the entrusted company will no longer store personal information. We promise to be responsible for this.
-
     4. According to relevant laws, regulations and national standards, in the following situations, we may share, transfer, and publicly disclose your personal information in accordance with the law without your consent:
         - Directly related to national security and national defense security;
         - Directly related to public safety, public health, and major public interests;
@@ -107,26 +97,20 @@ date: 2024-06-13 17:33:45
 ## Ⅲ. How do you access and control your personal information
 1. Manage your information
     - In the following situations, you can request us to delete personal information:
-
         - If our handling of personal information violates laws and regulations;
         - If we collect and use your personal information without your consent;
         - If our handling of personal information violates our agreement with you;
         - If you no longer use our products or services, or you log out of your account;
         - If we no longer provide you with products or services.
         - If we decide to respond to your request, we will also notify the entities that have obtained your personal information from us and request timely deletion, unless laws and regulations provide otherwise, or these entities obtain your independent authorization.
-
     - We encourage you to update and modify your information to make it more accurate and effective. We will do everything possible to take appropriate technical means to ensure that you can access, update and correct your registration information or other personal information provided when using our services. When accessing, updating, correcting and deleting the aforementioned information, we may require you to verify your identity to protect your account security.
-
 2. Manage your authorization scope
     - If you want to change the scope of authorization (including: positioning, pop-up windows, network, file reading and writing, notification of use rights, background operation), you can use "Android phone settings-application permission settings-PodsLink" b>Modify the scope of authorization and cancel the authorization. After you withdraw the authorization, we cannot continue to provide you with the services corresponding to the withdrawal of the authorization, and we will no longer process your corresponding information. However, your decision to withdraw the authorization will not affect the information processing previously carried out based on your authorization.
-
 3. Account deletion
     1. In order for us to provide you with continuous and stable services, we need you to provide third-party information (WeChat account) to create your account. If you only need to use the basic functions, you do not need to register as a PodsLink user and provide the above information. If you no longer use the PodsLink service, we provide cancellation of your registered account. You can contact us through the feedback channels listed in the "Contact Us" section. We will cancel your account within 5 working days after your feedback. When your account is cancelled or deleted, all service information and data under the PodsLink service related to the account will be deleted or anonymized, except as otherwise provided by laws and regulations.
     2. We will do everything possible to take appropriate technical means to ensure that you can access, update and correct your registration information or other personal information provided when using our services. When accessing, updating, correcting and deleting the aforementioned information, we may require you to verify your identity to protect your account security.
-
 4. Responding to your above request
     1. For your reasonable request, we do not charge a fee in principle, but for repeated requests that exceed a reasonable limit, we will charge a certain cost according to the situation. For those that are unreasonably repeated, require too many technical means (for example, the need to develop new systems or fundamentally change existing practices), bring risks to the legitimate rights and interests of others, or are very impractical (for example, involving information stored on backup tapes) Request, we may reject it.
-
     2. In the following situations, we will not be able to respond to your request in accordance with the requirements of laws and regulations:
         - Directly related to national security and national defense security;
         - Directly related to public safety, public health, and major public interests;
