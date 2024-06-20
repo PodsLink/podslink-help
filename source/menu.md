@@ -1,3 +1,20 @@
+## Basic introduction
+- [Supported headset models](/basic/headset_models)
+- [Pop-up window that automatically connects](/basic/auto_pop_up)
+- [Battery display](/basic/battery_display)
+- [Product introduction](/basic/intro)
+- [Matters needing attention](/basic/attention)
+
+## Advanced Function
+- [Find headphones](/func/find_device)
+- [Audio control](/func/audio_control)
+- [Gesture control](/func/gesture_control)
+- [Desktop widget](/func/widget)
+- [Notification bar Settings](/func/notification_bar)
+- [The AirPods feature an exclusive dynamic popup window](/func/dynamic_pop)
+- [Simple theme making](/func/theme)
+- [Voice broadcast](/func/broadcast)
+
 ## APP-FAQ
 - [Call noise](/faq/call_noise)
 - [How do I turn on and off noise reduction on AirPods Pro](/faq/noise_reduction)
@@ -20,16 +37,6 @@
 - [Charging capacity is not displayed](/faq/charging_not_displayed)
 - [How to display accurate power - to 1%](/faq/cacurate_power)
 
-## Advanced Function
-- [Find headphones](/func/find_device)
-- [Audio control](/func/audio_control)
-- [Gesture control](/func/gesture_control)
-- [Desktop widget](/func/widget)
-- [Notification bar Settings](/func/notification_bar)
-- [The AirPods feature an exclusive dynamic popup window](/func/dynamic_pop)
-- [Simple theme making](/func/theme)
-- [Voice broadcast](/func/broadcast)
-
 ## Relevant Considerations
 - [XIAOMI - Background resident Settings](/rel/xiaomi_back)
 - [OPPO - Background resident Settings](/rel/oppo_back)
@@ -40,14 +47,7 @@
 - [XIAOMI-Widget addition Guide](/rel/xiaomi_widget)
 - [HUAWEI - Widget addition Guide](/rel/huawei_widget)
 - [OPPO-Widget addition Guide](/rel/oppo_widget)
-
-## Basic introduction
-- [Supported headset models](/basic/headset_models)
-- [Pop-up window that automatically connects](/basic/auto_pop_up)
-- [Battery display](/basic/battery_display)
-- [Product introduction](/basic/intro)
-- [Matters needing attention](/basic/attention)
-
-
-## Other
 - [Privacy Policy](/privacy)
+
+
+
