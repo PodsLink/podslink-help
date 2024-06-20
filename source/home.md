@@ -3,22 +3,29 @@ title: 首页
 layout: home
 ---
 
+# Welcome！ 
+Welcome to the PodsLink Documentation Center
+
+PodsLink product documentation is all here, including the basic introduction, advanced features, FAQ, precautions four parts.
+Hope you enjoy using!
+
+
 ## Basic introduction
-- [Supported headset models](/basic/headset_models)
-- [Pop-up window that automatically connects](/basic/auto_pop_up)
-- [Battery display](/basic/battery_display)
 - [Product introduction](/basic/intro)
+- [Supported headset models](/basic/headset_models)
+- [Battery display](/basic/battery_display)
+- [Pop-up window that automatically connects](/basic/auto_pop_up)
 - [Matters needing attention](/basic/attention)
 
 ## Advanced Function
-- [Find headphones](/func/find_device)
-- [Audio control](/func/audio_control)
-- [Gesture control](/func/gesture_control)
-- [Desktop widget](/func/widget)
-- [Notification bar Settings](/func/notification_bar)
 - [The AirPods feature an exclusive dynamic popup window](/func/dynamic_pop)
 - [Simple theme making](/func/theme)
+- [Gesture control](/func/gesture_control)
 - [Voice broadcast](/func/broadcast)
+- [Find headphones](/func/find_device)
+- [Audio control](/func/audio_control)
+- [Desktop widget](/func/widget)
+- [Notification bar Settings](/func/notification_bar)
 
 ## APP-FAQ
 - [Call noise](/faq/call_noise)
@@ -42,7 +49,6 @@ layout: home
 - [Charging capacity is not displayed](/faq/charging_not_displayed)
 - [How to display accurate power - to 1%](/faq/cacurate_power)
 
-
 ## Relevant Considerations
 - [XIAOMI - Background resident Settings](/rel/xiaomi_back)
 - [OPPO - Background resident Settings](/rel/oppo_back)
@@ -54,4 +60,7 @@ layout: home
 - [HUAWEI - Widget addition Guide](/rel/huawei_widget)
 - [OPPO-Widget addition Guide](/rel/oppo_widget)
 - [Privacy Policy](/privacy)
+
+
+
 
