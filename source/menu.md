@@ -1,19 +1,19 @@
 ## Basic introduction
-- [Supported headset models](/basic/headset_models)
-- [Pop-up window that automatically connects](/basic/auto_pop_up)
-- [Battery display](/basic/battery_display)
 - [Product introduction](/basic/intro)
+- [Supported headset models](/basic/headset_models)
+- [Battery display](/basic/battery_display)
+- [Pop-up window that automatically connects](/basic/auto_pop_up)
 - [Matters needing attention](/basic/attention)
 
 ## Advanced Function
-- [Find headphones](/func/find_device)
-- [Audio control](/func/audio_control)
-- [Gesture control](/func/gesture_control)
-- [Desktop widget](/func/widget)
-- [Notification bar Settings](/func/notification_bar)
 - [The AirPods feature an exclusive dynamic popup window](/func/dynamic_pop)
 - [Simple theme making](/func/theme)
+- [Gesture control](/func/gesture_control)
 - [Voice broadcast](/func/broadcast)
+- [Find headphones](/func/find_device)
+- [Audio control](/func/audio_control)
+- [Desktop widget](/func/widget)
+- [Notification bar Settings](/func/notification_bar)
 
 ## APP-FAQ
 - [Call noise](/faq/call_noise)
