@@ -10,11 +10,8 @@ date: 2024-06-17 11:31:16
 
 
 #### **Two, Common Problems**
-- The application does not pop up the window
+- [Applications do not pop up](/faq/not_pop_up)
 
 #### **Three, More Fun**
-- Pop-up theme - AirPods exclusive dynamic pop-up 
-- Pop-up theme - Square theme resources 
-- Pop-up theme - Simple theme creation 
-- Pop-up theme - Share the pop-up to the square 
-- Pop-up theme - Advanced theme creation
+- [The AirPods feature an exclusive dynamic popup window](/func/dynamic_pop)
+- [Simple theme making](/func/theme)
