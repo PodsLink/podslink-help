@@ -8,13 +8,13 @@ date: 2024-06-17 11:31:16
 
 <img src="battery_display/img.png" width="70%" alt="">
 
-#### II. Common Problems
-- Timeout or no update of power status
-- How to display precise power level - accurate to 1%
-- No display of power level in charging case
+#### II. FAQ
+- [Battery access times out or does not update](/faq/battery_not_update)
+- [How to display accurate power - to 1%](/faq/cacurate_power)
+- [Charging capacity is not displayed](/faq/charging_not_displayed)
 
 
 #### III. More Fun
-- Pop-up display of power level
-- Power level display in widgets
-- Power level display in notification bar/status bar
+- [Pop-up window that automatically connects](/basic/auto_pop_up)
+- [Power level display in widgets](/func/widget)
+- [Power level display in notification bar/status bar](/func/notification_bar)
