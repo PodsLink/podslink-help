@@ -16,6 +16,7 @@
 - [Notification bar Settings](/func/notification_bar)
 
 ## APP-FAQ
+- [How do I keep my software in the background?](faq/How do I keep my software in the background?)
 - [Call noise](/faq/call_noise)
 - [How do I turn on and off noise reduction on AirPods Pro](/faq/noise_reduction)
 - [Earphone stealing](/faq/stealing)
