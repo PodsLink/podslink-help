@@ -16,4 +16,3 @@ Provide classic and popular desktop widgets for member users, so that you can ea
 - [Widget adding tutorial -OPPO](/rel/oppo_widget)
 - [Widget adding tutorial -VIVO](/rel/vivo_widget)
 - [Widget adding tutorial - Huawei](/rel/huawei_widget)
-- [Widget Add tutorial - Other phones](/func/add_widget)
