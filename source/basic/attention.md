@@ -21,4 +21,4 @@ date: 2024-06-17 11:31:18
   - [OPPO-Widget addition Guide](/rel/oppo_widget)
  
 #### 3. Service Agreement and Privacy Policy regarding the software
-- [Service Agreement and Privacy Policy](/rel/privacy)
+- [Service Agreement and Privacy Policy](/privacy)
