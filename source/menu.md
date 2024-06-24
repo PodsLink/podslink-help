@@ -8,6 +8,7 @@
 ## Advanced Function
 - [The AirPods feature an exclusive dynamic popup window](/func/dynamic_pop)
 - [Simple theme making](/func/theme)
+- [Advanced theme making](/func/advaced_theme)
 - [Gesture control](/func/gesture_control)
 - [Voice broadcast](/func/broadcast)
 - [Find headphones](/func/find_device)
