@@ -4,7 +4,7 @@ date: 2024-06-17 11:26:21
 ---
 
 #### First, function description:
-- Dynamic popup: earphone rotation animation, enhanced fruit restoration effect, dynamic popup effect Supported models:
+- Dynamic popup: earbuds rotation animation, enhanced fruit restoration effect, dynamic popup effect Supported models:
   AirPods series (excluding Max), Huaqiangbei series, PowerBeats Pro;
 
 #### Second, functional effect:

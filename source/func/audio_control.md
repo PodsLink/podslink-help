@@ -8,9 +8,9 @@ date: 2024-06-17 11:26:19
 - Function Introduction
   - Take off headphones to pause music, put on headphones to play music automatically
   - This membership feature is only available for genuine AirPods 1 / 2 / 3 and AirPods Pro1.
-- AirPods Pro2 is currently not supported due to limitations in the headset firmware. Support will be added after the headset firmware is updated.
+- AirPods Pro2 is currently not supported due to limitations in the earbud firmware. Support will be added after the earbud firmware is updated.
 - Notes
-  - In-ear detection is affected by the Apple headset protocol itself, and there is a 3 to 5 second delay.
+  - In-ear detection is affected by the Apple earbuds protocol itself, and there is a 3 to 5-second delay.
 - What if in-ear detection doesn't work?
 
 #### 3. In-ear detection shield (Huaqiangbei headphones)

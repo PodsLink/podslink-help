@@ -1,5 +1,5 @@
 ---
-title: Headphone noise cancellation
+title: Earbuds noise cancellation
 date: 2024-06-17 11:20:08
 ---
 

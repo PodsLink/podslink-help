@@ -6,7 +6,7 @@ title: Advanced theme Settings
 
 - Basic popup production: including the replacement function of the popup background, suitable for new users to make a simple popup theme.
 
-- Advanced pop-up production: On the basis of the new [earphone map] replacement and [screen effect] function, suitable for professional users to use, to produce a more sophisticated, integrated theme.
+- Advanced pop-up production: On the basis of the new [earbuds map] replacement and [screen effect] function, suitable for professional users to use, to produce a more sophisticated, integrated theme.
 
 ### Enable functions:
 In the upper right corner of my page, set the button --> Enable Advanced production mode

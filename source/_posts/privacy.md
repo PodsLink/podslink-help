@@ -6,7 +6,7 @@ tags:
 
 # Hello! You are welcome to use PodsLink.
 
-- PodsLink is an Android mobile phone application developed by XiaoLong, Ltd. The user displays the battery pop-up interface when the headset (AirPods headset or Beats headset, hereinafter referred to as headset) is connected to the Android phone, and can be displayed in the notification bar, Status bar, desktop gadgets and quick settings to check power. At present, there are functions such as pop-up window, in-ear detection, viewing headset positioning, and setting AirPods touch control.
+- PodsLink is an Android mobile phone application developed by XiaoLong, Ltd. The user displays the battery pop-up interface when the earbuds (AirPods earbuds or Beats earbuds, hereinafter referred to as earbuds) is connected to the Android phone, and can be displayed in the notification bar, Status bar, desktop gadgets and quick settings to check power. At present, there are functions such as pop-up window, in-ear detection, viewing earbuds positioning, and setting AirPods touch control.
 - PodsLink respects and protects the personal privacy of all users. In order to provide you with more accurate and personalized services, this software will use your personal information in accordance with the provisions of this privacy agreement. However, this software will treat this information with a high degree of diligence and prudence. Without your prior permission, this software will not disclose or provide this information to a third party. This software will update this privacy policy from time to time. When you agree to this software service use agreement, you are deemed to have agreed to the entire content of this privacy policy.
 
 ## I. Permissions and information obtained by PodsLink
@@ -32,15 +32,15 @@ tags:
 
     7. You understand and agree that some individual services may require you to enable specific access permissions on your device to enable the collection and use of information related to these permissions. E.g:
 
-        - Bluetooth's usage permission: Both the Bluetooth usage permission and the location permission are used to obtain the power of the low-power Bluetooth headset and are necessary permissions.
-        - Location permissions: Bluetooth usage permissions and location permissions are both used to obtain the power of the low-power Bluetooth headset and are necessary permissions.
-        - You need to turn on the high-precision positioning permission when using the search headset function, otherwise you don't need to turn it on.
-        - Pop-up window permission: The pop-up window permission is used to display the power information of the headset in a pop-up window when the headset is connected to the mobile phone. The pop-up window permission must be turned on when using this function, otherwise it does not need to be turned on.
+        - Bluetooth's usage permission: Both the Bluetooth usage permission and the location permission are used to obtain the power of the low-power Bluetooth earbuds and are necessary permissions.
+        - Location permissions: Bluetooth usage permissions and location permissions are both used to obtain the power of the low-power Bluetooth earbuds and are necessary permissions.
+        - You need to turn on the high-precision positioning permission when using the search earbuds function, otherwise you don't need to turn it on.
+        - Pop-up window permission: The pop-up window permission is used to display the power information of the earbuds in a pop-up window when the earbud is connected to the mobile phone. The pop-up window permission must be turned on when using this function, otherwise it does not need to be turned on.
         - Network permissions: Network permissions are used for software error log collection and software version update detection. You must enable network permissions when using this function, otherwise you don’t need to enable it.
         - File read and write permissions: The file read and write permissions are used for downloading the installation package when the software is upgraded. The file read and write permissions must be enabled when using this function, otherwise it does not need to be enabled.
         - File read and write permissions are also used to cache map data when searching for headsets. File read and write permissions must be enabled when using this function, otherwise it does not need to be enabled.
         - Access device information status: Actually verify user device information.
-        - Notification use right: The notification use right is used to realize the earphone in-ear detection and music control in the interactive function. The notification use right must be turned on when using this function, otherwise it does not need to be turned on.
+        - Notification use right: The notification use right is used to realize the earbuds in-ear detection and music control in the interactive function. The notification use right must be turned on when using this function, otherwise it does not need to be turned on.
         - Background operation permission (ignoring battery optimization, power saving policy is set to unlimited): Background operation permission ensures that the overall services and functions of the software (such as pop-up windows, real-time battery refresh) can run in the background, and this function must be turned on when using this function Permission to run in the background, otherwise you don't need to open it.
         - Accessibility permission: This permission is to enable the floating window (Smart Island function) to be covered on the "top status bar". Accessibility permission must be enabled when using this function, otherwise it is not necessary to open it
     8. To the extent permitted by laws and regulations, we may collect your personal information in the following situations without your authorization:
