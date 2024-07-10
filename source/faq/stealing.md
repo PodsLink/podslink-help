@@ -1,4 +1,4 @@
-`---
+---
 title: Earbuds stealing connection
 date: 2024-06-17 11:20:06
 ---
