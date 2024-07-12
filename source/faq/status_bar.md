@@ -10,7 +10,7 @@ date: 2024-06-17 11:20:13
 #### Huawei：
 - If the system is before Hongmeng 3.0
   1. In the phone's system Settings - Notification - More Notification Settings - enable notifications when the icon is displayed.
-  2. In the phone's system Settings - Notifications - AndPods - AirPods Battery Status - Turn off silent notification.
+  2. In the phone's system Settings - Notifications - PodsLink - AirPods Battery Status - Turn off silent notification.
 - Hongmeng 4.0 and above systems are forced to use APP icon display. We have submitted feedback on this issue at the Pollen Club and there is currently no solution.
 
 
