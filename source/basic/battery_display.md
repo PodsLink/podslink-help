@@ -4,7 +4,7 @@ date: 2024-06-17 11:31:16
 ---
 
 #### Function Description
-- Once the headphones have been added and connected, you can view the battery level display within the software.
+- Once the earbuds have been added and connected, you can view the battery level display within the software.
 
 <img src="battery_display/img.png" width="70%" alt="">
 

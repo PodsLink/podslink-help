@@ -8,5 +8,5 @@ date: 2024-06-17 11:20:13
 <img src="in_ear_detection/img.png" width="70%" alt="">
 
 - If it is a specific music player can not be detected in the ear
-- Can check NetEase cloud/cool dog and other players have a wire control song is not open.
+- You can check whether the "Line control" function of music players such as NetEase Cloud/Kugou is turned on or not.
 - If you can't do ear detection when the app isn't open, Maybe the application background is cleaned up, and you can set up the background resident according to the guidelines to solve the problem.
