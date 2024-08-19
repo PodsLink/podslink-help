@@ -3,10 +3,10 @@ title: Matters needing attention
 date: 2024-06-17 11:31:18
 ---
 
-- Here are the important things to keep in mind when using PodsLink software:
+> Here are the important things to keep in mind when using PodsLink software:
 
 #### 1. Background Stay Guide
-- The software needs to be running in the background in order to ensure that the pop-up window and display of battery level, etc. functions properly. The background stay resistance of different mobile phone models is different, as follows:
+- The software needs to run in the background to ensure that functions such as pop-up windows and displaying battery level are working properly. The background resident operation varies for different phone models as follows:
   - [XIAOMI - Background resident Settings](/rel/xiaomi_back)
   - [OPPO - Background resident Settings](/rel/oppo_back)
   - [VIVO - Background resident Settings](/rel/vivo_back)

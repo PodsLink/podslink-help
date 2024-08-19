@@ -10,4 +10,4 @@ For member users to provide personalized quick view of power, including drop-dow
 
 ## Note:
 - Some mobile phone systems on the status bar icon display will have restrictions do not display, detailed solutions see
-- The notification or status bar is not displayed
+- [The notification or status bar is not displayed](/faq/notification_bar)

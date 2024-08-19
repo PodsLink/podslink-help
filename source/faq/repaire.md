@@ -2,9 +2,9 @@
 title: Repair earbuds
 date: 2024-06-17 11:20:07
 ---
-1. First, smart connection earbuds
+1. 1. Smart connection earbuds
    - On the Settings screen of the application - Add earbuds - intelligently add an identification earbuds as prompted.
-2. Second, manually connect the earbuds
+2. 2. Manually connect the earbuds
    1. First you need to put two earbuds into the earbuds case, keeping the lid open.
    2. Press and hold the small dot on the back of the box for about 3 seconds to make the AirPods enter the pairing state.
    3. The indicator light in the middle of the paired earbuds box will display white light and blink.
