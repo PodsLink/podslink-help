@@ -1,130 +1,124 @@
 ---
-title: Privacy Policy
+title: PodsLink Privacy Policy
 date: 2024-06-13 17:33:45
 ---
+Welcome to the products and services provided by 「PodsLink」! 「PodsLink」 (or simply "we") understands the importance of personal information to you, and we solemnly commit to protecting the personal information and privacy of users (hereinafter referred to as "users" or "you") who use our products and services (collectively referred to as "PodsLink services"). When you use PodsLink services, we may collect and use your relevant personal information. We hope that this "PodsLink Privacy Policy" (hereinafter referred to as "this policy") will explain the rules for processing your personal information when we collect and use it, as well as the ways we provide for you to access, correct, delete, and protect this personal information, to better safeguard your rights and interests.
+This "PodsLink Privacy Policy" (hereinafter referred to as "this Privacy Policy") applies to all PodsLink services we provide.
+- We will describe each of the types of personal information we collect about you and the purposes for which we collect it so that you can understand the specific types of personal information we collect for a particular function, why we use it and how we collect it.
+- When you use some functions, we will collect some sensitive information from you with your consent, unless it is required by relevant laws and regulations.
+- At present, 「PodsLink」 will not actively share or transfer your personal information to any third party, if there is any other sharing or transfer of your personal information, we will obtain your express consent.
+- Currently, 「PodsLink」 will not actively obtain your personal information from third parties. If it is necessary to obtain your personal information indirectly from a third party in the future for business development, we will specify the source, type and scope of use of your personal information before acquisition. We will strictly comply with the relevant laws and regulations and will ask third parties to guarantee the legality of the information they provide.
+- We will try our best to protect your personal information rationally and legitimately by taking the secure measures.
 
-# Hello! You are welcome to use PodsLink.
-- PodsLink is an Android mobile phone application developed by XiaoLong, Ltd. The user displays the battery pop-up interface when the earbuds (AirPods earbuds or Beats earbuds, hereinafter referred to as earbuds) is connected to the Android phone, and can be displayed in the notification bar, Status bar, desktop gadgets and quick settings to check power. At present, there are functions such as pop-up window, in-ear detection, viewing earbuds positioning, and setting AirPods touch control.
-- PodsLink respects and protects the personal privacy of all users. In order to provide you with more accurate and personalized services, this software will use your personal information in accordance with the provisions of this privacy agreement. However, this software will treat this information with a high degree of diligence and prudence. Without your prior permission, this software will not disclose or provide this information to a third party. This software will update this privacy policy from time to time. When you agree to this software service use agreement, you are deemed to have agreed to the entire content of this privacy policy.
 
-## I. Permissions and information obtained by PodsLink
-1. We will collect and use the following types of personal information from you for the following purposes:
-   In order for you to use PodsLink's services normally, you need to provide us with some information in the following situations; we will also collect your information from third parties that legally store your information in the following situations. If you do not provide relevant information, you may not be able to register as our user or enjoy some of the services and functions we provide, or you may not be able to receive our notifications, or you may not be able to achieve the intended effects of the relevant services. Our ultimate purpose of collecting your personal information is to provide you with better products and services, and to optimize and enrich your user experience.
-    1. Maintain the normal operation of basic functions
-        - During your use of our services, we may directly or indirectly collect and store information about you in order to identify abnormal status of your account, understand product adaptability, ensure the network and operation security of the PodsLink service, and maintain the normal operation of the aforementioned basic functions. Information about the service used and how it is used and associating this information, including:
-            - Log information: When you use our services, we may automatically collect your detailed usage of our services and save them as relevant web logs. For example: your login account, IP address, browser type, telecom operator, network environment, language used, date and time of visit, length of stay, refresh record.
-            - Device information: We may receive and record information about the device you are using. For example: device model, operating system and version, client version, device resolution, package name, device settings, process and software list, device identifier (IMEI/Android ID/IDFA/OpenUDID/GUID/SIM card IMSI information) , Software and hardware feature information, information about the location of the device. (For example, IP address, GPS location, and WLAN access point, Bluetooth, and base station sensor information that can provide relevant information). In order to collect the above basic personal device information, we will apply for permission to access your device information. We collect this information to provide you with our basic services and basic functions. If you refuse to provide the above permissions, you may not be able to use PodsLink. service.
-    2. Help you complete registration and login
-        - In order for us to provide you with continuous and stable services and ensure the safety of your use of PodsLink services, we need you to provide third-party information (Google account) and create your account. In some individual services, if you only need to use the basic functions, you do not need to register as a PodsLink user and provide the above information.
-    3. Provide you with customer service or other user response functions
-        - When you contact our customer service or use other user response functions (such as submitting personal information protection complaints or suggestions, other customer complaints and needs), we may need you to provide the necessary personal information to match and verify your user identity in order to protect Your account and system security. We may also save your contact information (used when you contact us or other contact information you actively provide to us), your communication/call records and content with us, and other necessary information related to your needs, In order to contact you or help you solve the problem, or record the solution and result of the related problem.
-    4. Your personal information we collected indirectly:
-        - Based on the PodsLink service you choose to use, we may obtain relevant information that you have authorized to share from related parties and third-party partners. For example, when you use a third-party platform account to log in to the PodsLink service, we will obtain the relevant information under the third-party account (including: user name, nickname, avatar, and specific content subject to your authorization) according to your authorization. And after you agree to this policy, bind your third-party account with your PodsLink service account so that you can directly log in and use the PodsLink service through the third-party account. We will collect and use your information under the premise of complying with relevant laws and regulations, and in accordance with the agreement with the affiliates or third-party partners, and believing that the source of the information provided by them is legal.
-    5. Improve our service
-        - We may use the personal information collected through a certain PodsLink service for our other services: your personal information collected when you use a certain PodsLink service may be used in our other services to provide you with Provide specific content or show you information that is relevant to you but not generally pushed; we may allow you to participate in surveys about PodsLink services to help us improve existing services or design new services; at the same time, we may share your personal information Used for software updates. You understand and agree that after collecting your personal information, we will use technical means to de-identify the data. The de-identified personal information will not be able to identify you. In this case, we have the right to use the Identified personal information analyzes the user database and makes commercial use.
-    6. Other uses
-        - Please note that if we want to use your personal information for other purposes not specified in this "Privacy Policy" or collect additional personal information not mentioned, we will separately ask for your consent in advance (the way to confirm consent: Check, pop-up window, station letter, mail, short message method). Once you agree, these additional uses will be regarded as part of this "Privacy Policy", and this "Privacy Policy" will also apply to such additional personal information.
-    7. You understand and agree that some individual services may require you to enable specific access permissions on your device to enable the collection and use of information related to these permissions. E.g:
-        - Bluetooth's usage permission: Both the Bluetooth usage permission and the location permission are used to obtain the power of the low-power Bluetooth earbuds and are necessary permissions.
-        - Location permissions: Bluetooth usage permissions and location permissions are both used to obtain the power of the low-power Bluetooth earbuds and are necessary permissions.
-        - You need to turn on the high-precision positioning permission when using the search earbuds function, otherwise you don't need to turn it on.
-        - Pop-up window permission: The pop-up window permission is used to display the power information of the earbuds in a pop-up window when the earbud is connected to the mobile phone. The pop-up window permission must be turned on when using this function, otherwise it does not need to be turned on.
-        - Network permissions: Network permissions are used for software error log collection and software version update detection. You must enable network permissions when using this function, otherwise you don’t need to enable it.
-        - File read and write permissions: The file read and write permissions are used for downloading the installation package when the software is upgraded. The file read and write permissions must be enabled when using this function, otherwise it does not need to be enabled.
-        - File read and write permissions are also used to cache map data when searching for headsets. File read and write permissions must be enabled when using this function, otherwise it does not need to be enabled.
-        - Access device information status: Actually verify user device information.
-        - Notification use right: The notification use right is used to realize the earbuds in-ear detection and music control in the interactive function. The notification use right must be turned on when using this function, otherwise it does not need to be turned on.
-        - Background operation permission (ignoring battery optimization, power saving policy is set to unlimited): Background operation permission ensures that the overall services and functions of the software (such as pop-up windows, real-time battery refresh) can run in the background, and this function must be turned on when using this function Permission to run in the background, otherwise you don't need to open it.
-    8. To the extent permitted by laws and regulations, we may collect your personal information in the following situations without your authorization:
-        - Related to national security and national defense security;
-        - Related to public safety, public health, and major public interests;
-        - Related to criminal investigation, prosecution, trial, and execution of judgments;
-        - The personal information collected is disclosed to the public by you yourself;
-        - Collect personal information from legally publicly disclosed information, such as legal news reports, government information disclosure and other channels;
-        - In order to protect the life, property and other major legal rights of the information subject or other individuals, but it is difficult to obtain your own consent; 
-    9. According to your requirements, PodsLink provides services necessary for you;
-        - It is necessary to maintain the security and compliance of the service, such as discovering and disposing of the failure of products and services;
-        - Necessary for legal news reporting;
-        - It is necessary to carry out statistical or academic research for the public interest, and when the results of academic research or description are provided to the outside, the information contained in the results is de-identified;
-        - Other circumstances stipulated by laws and regulations.
-2. We will collect and obtain your personal information through the following channels:
-    1. Information provided by you, such as:
-        - The information you provide to us when you register for the PodsLink service account or use the PodsLink service;
-        - The shared information you provide to third parties through the PodsLink service, and the information stored when you use the PodsLink service.
-        - Please note that if you publish your information in the public area visible to other users in the PodsLink service, or in your response to the information uploaded or published by other people, such information may be collected and released by others. Use it. When you find that others have improperly collected or used your information, you can contact us through the feedback channels listed in the "Contact Us" section of this policy.
-    2. Your information shared by third parties. That is, the shared information about you provided by a third party when using the PodsLink service. Your information we have obtained. When you use the PodsLink service, we collect, aggregate, and record information, such as log information, location information, and device information.
-    3. We obtained your information. When you use the PodsLink service, we collect, aggregate, and record information, such as log information, location information, and device information.
-3. How will we store your information
-    - We store your personal information in the territory of the People's Republic of China (including Hong Kong, Macao and Taiwan) in accordance with laws and regulations. If cross-border storage is required, we will separately obtain your authorization and consent.
-    - Unless otherwise agreed by laws or relevant regulations, we retain your personal information for the period necessary for the purpose of providing our services, unless you request us to delete or cancel your account immediately, or as otherwise provided by laws and regulations. For the storage period and processing of anonymized information, we do not need to obtain your authorization or consent, nor do we need to make a notice.
+If you start it without agreeing this Privacy Policy, we would only collect the necessary information to maintain the fundamental function of 「PodsLink」. Therefore, we could not provide you with the complete product and services. However, your information would be protected by the same secure measures.
 
-## Ⅱ. How do we use and provide information to the outside world
-1. How do we use information
-    1. PodsLink may use the information collected in the course of providing services to you for the following purposes:
-        - For data analysis, in order to provide you with better services;
-        - When we provide services, it is used for identity verification, customer service, security prevention, fraud monitoring, archiving and backup purposes to ensure the safety of the products and services we provide to you;
-        - Help us design new services and improve our existing services;
-        - Make us better understand how you access and use our services, so as to respond to your personalized needs, including language settings, location settings, personalized help services and instructions, or to you and other The user makes other responses;
-        - Let you participate in surveys about our products and services or through our products and services. Whether to participate in the survey will be determined by you at your sole discretion, and you will choose what information to provide;
-        - Software certification or management software upgrade.
-    2. In order to allow you to have a better experience, improve our services, or other purposes you agree to, and subject to relevant laws and regulations, we may use the information collected through a certain service to aggregate information or personality It is used in our other services. The information collected when you use one of our services may be used in another service to provide you with specific content, or to show you non-general push information related to you. If we provide the corresponding options in the relevant service, you can also authorize us to use the information provided and stored by the service for other services.
-2. How do we provide information to the outside world
-    1. Business sharing
-        - We promise to keep your information strictly confidential. Except as otherwise provided by laws, regulations and regulatory authorities, we will only share your information with third parties in the following situations, including our affiliates, cooperative financial institutions and other partners. If you need to share your information with a third party in order to provide you with services, we will evaluate the legality, legitimacy, and necessity of the third party's collection of information. We will require third parties to take protective measures for your information and strictly comply with relevant laws, regulations and regulatory requirements. In addition, we will obtain your consent in the form of confirmation agreements, copy confirmation in specific scenarios, and pop-up prompts in accordance with the requirements of laws, regulations and national standards, or confirm that the third party has obtained your consent.
-    2. Transfer
-        - We will not transfer your personal information to any company, organization or individual, except in the following cases:
-            - Get your explicit consent in advance;
-            - According to laws and regulations or mandatory administrative or judicial requirements;
-            - In the case of asset transfer, acquisition, merger, reorganization or bankruptcy liquidation, if the transfer of personal information is involved, we will inform you of the situation and require new companies and organizations that hold your personal information to continue to be subject to this policy Constraints. If the purpose of using personal information is changed, we will require the company or organization to obtain your explicit consent again.
-    3. Delegated processing
-        - In order to improve the efficiency of information processing, reduce the cost of information processing, or improve the accuracy of information processing, we may entrust our capable affiliates or other professional organizations to process information on our behalf. We will require the entrusted company to comply with strict confidentiality obligations and take effective confidentiality measures through written agreements and on-site audits, and prohibit them from using this information for purposes not authorized by you. When the entrusted relationship is terminated, the entrusted company will no longer store personal information. We promise to be responsible for this.
-    4. According to relevant laws, regulations and national standards, in the following situations, we may share, transfer, and publicly disclose your personal information in accordance with the law without your consent:
-        - Directly related to national security and national defense security;
-        - Directly related to public safety, public health, and major public interests;
-        - Directly related to criminal investigation, prosecution, trial, and execution of judgments;
-        - In order to protect your or other individuals' life, property and other major legal rights and interests, but it is difficult to obtain your own consent;
-        - Your personal information disclosed to the public by yourself;
-        - Personal information collected from legally publicly disclosed information, including: legal news reports, government information disclosure and other channels;
-        - It is necessary to maintain the safe and stable operation of the products or services provided, including the detection and handling of product or service failures;
-        - Personal information controllers are necessary for news organizations to carry out legal news reports;
-        - The personal information controller is an academic research institution that is necessary to conduct statistics or academic research for public interest, and when it provides academic research or describes the results to the outside, the personal information contained in the results is de-identified;
-        - Other circumstances required by law.
-3. The possible impact of our use of your personal information on you:
-    1. You will receive some surveys initiated by our products and services, which will be triggered mainly in the form of text messages, message pushes, pop-up windows in the App, and event pages. It is up to you to decide whether to participate in the survey, and which ones you choose to provide Information;
-    2. In order to understand your stage and status, we will ask you relevant questions from time to time and obtain certain permissions. We hope that you can assist us in providing information so as to provide you with better services;
-    3. Please pay attention to the problem of personal information leakage. If you find illegal content that is not triggered by PodsLink, please contact us to solve the problem, and PodsLink will work with you to maintain information security.
-## Ⅲ. How do you access and control your personal information
-1. Manage your information
-    - In the following situations, you can request us to delete personal information:
-        - If our handling of personal information violates laws and regulations;
-        - If we collect and use your personal information without your consent;
-        - If our handling of personal information violates our agreement with you;
-        - If you no longer use our products or services, or you log out of your account;
-        - If we no longer provide you with products or services.
-        - If we decide to respond to your request, we will also notify the entities that have obtained your personal information from us and request timely deletion, unless laws and regulations provide otherwise, or these entities obtain your independent authorization.
-    - We encourage you to update and modify your information to make it more accurate and effective. We will do everything possible to take appropriate technical means to ensure that you can access, update and correct your registration information or other personal information provided when using our services. When accessing, updating, correcting and deleting the aforementioned information, we may require you to verify your identity to protect your account security.
-2. Manage your authorization scope
-    - If you want to change the scope of authorization (including: positioning, pop-up windows, network, file reading and writing, notification of use rights, background operation), you can use "Android phone settings-application permission settings-PodsLink" b>Modify the scope of authorization and cancel the authorization. After you withdraw the authorization, we cannot continue to provide you with the services corresponding to the withdrawal of the authorization, and we will no longer process your corresponding information. However, your decision to withdraw the authorization will not affect the information processing previously carried out based on your authorization.
-3. Account deletion
-    1. In order for us to provide you with continuous and stable services, we need you to provide third-party information (WeChat account) to create your account. If you only need to use the basic functions, you do not need to register as a PodsLink user and provide the above information. If you no longer use the PodsLink service, we provide cancellation of your registered account. You can contact us through the feedback channels listed in the "Contact Us" section. We will cancel your account within 5 working days after your feedback. When your account is cancelled or deleted, all service information and data under the PodsLink service related to the account will be deleted or anonymized, except as otherwise provided by laws and regulations.
-    2. We will do everything possible to take appropriate technical means to ensure that you can access, update and correct your registration information or other personal information provided when using our services. When accessing, updating, correcting and deleting the aforementioned information, we may require you to verify your identity to protect your account security.
-4. Responding to your above request
-    1. For your reasonable request, we do not charge a fee in principle, but for repeated requests that exceed a reasonable limit, we will charge a certain cost according to the situation. For those that are unreasonably repeated, require too many technical means (for example, the need to develop new systems or fundamentally change existing practices), bring risks to the legitimate rights and interests of others, or are very impractical (for example, involving information stored on backup tapes) Request, we may reject it.
-    2. In the following situations, we will not be able to respond to your request in accordance with the requirements of laws and regulations:
-        - Directly related to national security and national defense security;
-        - Directly related to public safety, public health, and major public interests;
-        - Directly related to criminal investigation, prosecution, trial, and execution of judgments;
-        - There is sufficient evidence to show that you have subjective malice or abuse of rights;
-        - Responding to your request will cause serious damage to the legitimate rights and interests of you or other people or organizations;
-        - Involving trade secrets.
-## Ⅳ. Information Security
-- We only retain your personal information for the period necessary for the purposes described in this policy and within the time limit required by laws and regulations. We use various security technologies and procedures to prevent loss of information, improper use, unauthorized viewing or disclosure, and sharing. For example, in some services, we will use encryption technology (such as SSL) to protect the personal information you provide. However, please understand that due to technical limitations and various malicious methods that may exist, in the Internet industry, even if you do your best to strengthen security measures, it is impossible to always guarantee 100% security of information. You need to understand that the system and communication network you use to access our services may have problems due to factors outside our control.
 
-## V. Notification and Amendments
-- We may revise the terms of this "Privacy Policy" in due course, and such revisions form part of this "Privacy Policy". For major changes, we will provide a more significant notice, and you can choose to stop using the PodsLink service; in this case, if you continue to use the PodsLink service, you agree to be bound by this revised "Privacy Policy". Any modification will put your satisfaction first. We encourage you to check our privacy policy every time you use the PodsLink service.
+We attach great importance to protect your personal information, dealing it with diligence and caution as our obligation. We suggest you read the whole terms of this Privacy Policy seriously and completely, expecting to introduce how we would deal with your personal information. Please pay more attention to the bold contents relating to your information and your rights. And now please read the appropriate sections according to the following index.
+1. How we collect and use your personal information
+2. The use of Cookie
+3. How we store and protect your personal information
+4. How we share, transfer and publicly disclose your personal information
+5. Your rights
+6. How we handle minors' personal information
+7. How this Privacy Policy is updated
+8. How to contact us
+9. How we collect and use your personal information
 
-## Ⅵ. Contact Us
-- If you have any questions, comments or suggestions about this "Privacy Policy" or your personal privacy information, please contact us. Email address: xiaolongonly@gmail.com
-- In general, we will respond within five tasks after receiving your questions, comments or suggestions and verifying your user identity. If you are not satisfied with our response, you can file a complaint with the consumer protection department or file a lawsuit in a court with jurisdiction.
+When you use the Service, the Service will collect information that you provide or generate when you use the Service in the following ways in order to maintain the correct operation of the application, provide and optimize our service, ensure the security of your account and follow to the laws and the standard stipulations. 
+## 1. How we collect and use your personal information
 
-> Effective Date: 06 12, 2024
+### 1.1 The personal information we collect and use actively
+   - To maintain 「PodsLink」 operating normally
+When you use 「PodsLink」, we would collect your device model, OS version, IMEI ( International Mobile Equipment Identity ), IP address, software version, network type, operating log, etc. Please understand these are the necessary and fundamental information for us to provide services and maintain the application operating normally. 
+   - Information you upload or provide while using the services
+When you use the 「PodsLink」 service for feedback and subscription, we will collect a variety of information, including the feedback you submit, email information. We will use this information to fulfill your requests, to provide related products or services, or for anti-fraud purposes. 
+   - Ensure the safety of products, services and users
+To help us better understand the operation of 「PodsLink」 and related services and to ensure the safety of the operation and provision of the services, we will record web log information, as well as the frequency of use of the software and related services, crash data, overall installation, usage, performance data and other information.
+
+### 1.2 How we deal with the change of the purpose of collecting and using of your personal information
+
+Please understand that as our business evolves, there may be adjustments and changes to the functions and services offered by 「PodsLink」. In principle, when new functions or services are related to scenarios such as old functions, the personal information collected and used will be directly or reasonably related to the original purpose of processing. In scenarios that are not directly or reasonably related to the original purpose, we will collect and use your personal information and will again inform you and obtain your consent.
+
+### 1.3 Personal information collected and used by consent is exempted by law
+
+Please understand that under the following circumstances, in accordance with laws, regulations and/or relevant national standards, we do not need to obtain your authorized consent to collect and use your personal information.
+   - Directly related to national security and national defense security 
+   - Directly related to public security, public health or major public interests
+   - Directly related to criminal investigation, prosecution, trial and execution of judgment, etc
+   - For the purpose of safeguarding the life, property and other important legitimate rights and interests of the subject of personal information or other individuals, but it is difficult to obtain consent from the individual
+   - The personal information collected by you is disclosed to the public by you
+   - Collection of your personal information from legally publicly disclosed information, such as legal news reports, government information disclosure and other channels
+   - Necessary for signing and performing the contract according to your requirements
+   - Necessary to maintain the safe and stable operation of software and related services, such as finding and resolving faults of software and related services
+   - Other circumstances provided for by laws and regulations
+   Particularly, if the information cannot be identified to your personal identity individually or in combination with other information, it does not belong to your personal information in the legal sense; When your information can be identified to your personal identity alone or in combination with other information, or when we use the data which cannot be associated with any specific personal information in combination with other your personal information, during the combined use, such information will be treated and protected as your personal information in accordance with this Privacy Policy.
+## 2. The use of Cookie
+   Cookies and similar technologies are ubiquitous on the Internet. When you use 「PodsLink」 and related services, we may use relevant technologies to send one or more cookies or anonymous identifiers to your device to collect and store information about your access to and use of the product. We will set cookies or anonymous identifiers for authentication and security to ensure the safe and efficient operation of our products and services, and help us improve service efficiency and response.
+## 3. How we store and protect your personal information
+
+### 3.1 How we store your personal information
+- Location of information storage
+We will store the collected personal information in China or in the country/region where the user is located in accordance with laws and regulations.
+- Period of information storage
+In general, we retain your personal information only for as long as necessary to achieve the purpose, for example, the email address you fill in when you submit your feedback.
+In the event that our products or services cease to operate, we will notify you by push notification, announcement, etc. and delete or anonymize your personal information within a reasonable period of time.
+### 3.2 How we protect your personal information
+   - We attach great importance to your safety of personal information, and try our best to take appropriate measures to protect it from accessing, disclosing  publicly, use, tamper, damage, loss and leak without your authorization.
+   - We will use effective and appropriate measures such as industry-standard encryption and anonymizing technology to protect your personal information. Also, we use safety protection system to prevent your personal information from malware attack.
+   - We will build up technical safety department, administration regulation of safety, process of data safety to protect your personal information. We will use a strict system, ensure only authorized person can access your personal information. And we will set up safety audit at the appropriate time about data and technology.
+   - Please understand that because of the limit of technology and all kinds of malicious methods, in the internet industry we can’t ensure for 100% about the safety of information, even though we take the effective and rational measures above, abide relevant laws and regulations to be up to the standard and try our best to improve the safety measures. Please understand the possibility of matter because of the factors beyond our control, accessing the system and communication network that our services using. Therefore, we highly suggest you take active and effective measures to protect your safety of information. Including but not limited to using strong password and modify it regularly, and do not disclose your personal information such as your account number and password to others.
+   - We have emergency plans which would be activated in the event of security incident in order to prevent the negative effect from spreading. Once the event of security incident happens, such as the information leaked or lost, we would abide to the laws and regulations, informing you the basic situation and potential effect, the measures we have and would take, the suggestion for you to defend and decrease the risk on your own, the re mediation measure for you, etc. We would inform you the relevant situation on time through the information push, email, message, etc. And we would use effective announcement if we could not inform all the users in turn. Meanwhile, we will report the disposal situation according to the demand of supervision department.
+   - We remind you particularly that the measure of protecting personal information provided by this Privacy Policy only apply to 「PodsLink」 and the relevant services. Once you get away from 「PodsLink」 to browse or use service, resource from other website, then we are unable and without obligation to protect your any personal information you submit on other application, software, and website. No matter whether the application, software, and website above are from the link or guidance from 「PodsLink」 or not.
+## 4. How we share, transfer and publicly disclose your personal information
+### 4.1 Sharing
+We would not share your personal information to any other company, organization, individual, except in the following circumstances.
+- Acquiring your consent clearly
+- According to the laws and regulations, or the mandatory demand from the competent government authority
+- Share with our associated companies. Your necessary personal information would be share with our associated companies, and still be restrained by this Privacy Policy. Associated companies must obtain your permission if they need to change the purpose of using your personal information.
+- Share with our cooperative partner. Certain of our services will be provided by authorized partners only for the purposes stated in this Privacy Policy. We may share some of your personal information with our partners to provide better customer service and user experience. For example, the company we employ to provide third-party data statistics and analysis services may need to collect and access personal data for data statistics and analysis. In such cases, these companies must comply with our data privacy and security requirements. We will only share your Personal Information for lawful, legitimate, necessary, specific and explicit purposes, and will only share such Personal Information as is necessary to provide the Services
+- We will carefully evaluate the purposes for which third parties are using the shared information, conduct a comprehensive assessment of the security capabilities of these partners, and require them to comply with the legal agreements for cooperation. We will strictly monitor the software tool development kit (SDK) and application program interface (API) for partners to obtain information, so as to protect data security
+As for the information about the third-party SDK from the partners that we access, please refer the Catalogue of Third-Party SDK Accessed attached at the end of this policy.
+### 4.2 Transfers
+We will not transfer your personal information to any company, organization or individual except in the following circumstances.
+- Transfer with explicit consent: we will transfer your personal information to other parties after obtaining your explicit consent.
+- In the event of a merger, acquisition, or liquidation involving the transfer of personal information, we will ask the new company or organization holding your personal information to remain bound by this Privacy Policy before we ask that company or organization to seek authorization from you again.
+### 4.3 Public Disclosure
+We will only publicly disclose your personal information in the following circumstances.
+- With your express consent.
+- Disclosure Based on Law: We may disclose your personal information publicly where we are required to do so by law, legal process, litigation, or mandatory governmental authority.
+## 5. Your rights
+   In accordance with international common practices, we guarantee that you exercise the following rights to your personal information.
+### 5.1 Withdrawal of authorization consent
+You can change the authorization consent for 「PodsLink」 in system Settings at any time. When you withdraw your consent, we will no longer process the corresponding personal information. However, your decision to withdraw your consent will not affect the processing of personal information previously carried out based on your authorization.
+### 5.2 In response to your request above
+When you access, modify or delete relevant information, we may require you to verify your identity to protect the security of your account. Please understand that due to technical limitations, legal or regulatory requirements, we may not be able to meet all of your requirements, and we will respond to your request within a reasonable period of time.
+### 5.3 Access Privacy Policy
+You can enter "Settings" - "Privacy Policy" in the app to view the full content of this privacy policy.
+### 5.4 Inform you of the right if we cease operation
+If we cease operation, we will stop collecting your personal information in a timely manner, notify you of the notice of cessation of operation in the form of one-by-one service or announcement, and delete or anonymize your personal information held by us.
+## 6. How we handle minors' personal information
+   We attach great importance to the protection of minors' personal information. In accordance with relevant laws and regulations, if you are a minor under the age of 18, prior written consent of your parents or legal guardian should be obtained before using the 「PodsLink」 Service. We will protect the personal information of minors in accordance with relevant national laws and regulations, and will only collect, use, share or disclose the personal information of minors when permitted by law, with the express consent of parents or other guardians or when necessary for the protection of minors; If we find that personal information about minors has been collected without prior verifiable parental consent, we will seek to remove the information as soon as possible.
+## 7. How this Privacy Policy is updated
+   We may revise this Privacy Policy in due course. When the terms of this privacy policy change, we will show you the changed privacy policy in the form of push notification and pop-up window when you log in and update the version. Please note that we will collect, use and store your personal information in accordance with the updated Privacy Policy only after you click the "Agree" button in the pop-up window.
+## 8. Contact Us
+   If you have any complaints or reports regarding personal information security, or if you have any questions, comments, or suggestions about this Privacy Policy or your personal information, or any issues regarding this Privacy Policy or privacy measures, please contact us at the following email address: xiaolongonly@gmail.com
+   In general, we will respond to your questions, comments, or suggestions within fifteen working days after receiving your inquiry and verifying your user identity.
+- Application and Use of Permission
+- In order to ensure the safe and stable operation of love records, we will apply for or use the relevant permissions of the operating system according to the actual circumstances. 
+- In order to protect your right to know, we show the relevant operating system permissions that the product may apply for and use through the following list. You can manage the relevant permissions according to your actual needs.
+- According to the product upgrade, the application, the type and the purpose of the permission to use will change according to the product functions. We will adjust the list according to these changes in time to ensure that you are informed of the application and use of the permission in time.
+- Please understanding that for the function and security needs of our business and products, we will consider using a third party SDK based on actual business consideration, and these third parties will also apply for or use relevant operating system permissions.
+- In the process of using the product, if you use the H5 interface or applet developed by the third party, the plug-ins or applet developed by the third party will apply for or use the relevant operating system permissions according to the function of actual business circumstances.
+
+
+Catalogue of Third-Party SDK Accessed
+In order to ensure the operation of the functions related to Love Days Counter and the safe and stable operation of the application, we will access the software development kit (SDK) provided by the third party to achieve relevant purposes according to the needs of actual business scenarios.
+We will carry out strict security monitoring on the software tool development kit (SDK) for partners to obtain information, so as to protect data security. The relevant third party SDKs we access are listed in the directory.
+Please note that the third party SDK may have some changes in data processing types due to its version upgrade, policy adjustment and other reasons. Please refer to the official explanation.
+
+
+• Google Play In-App Payments
+Their privacy policy can be viewed at https://www.google.com/policies/privacy/
+• PayPal
+Their privacy policy can be viewed athttps://www.paypal.com/webapps/mpp/ua/privacy-full
