@@ -49,6 +49,7 @@
 - [HUAWEI - Widget addition Guide](/rel/huawei_widget)
 - [OPPO-Widget addition Guide](/rel/oppo_widget)
 - [Privacy Policy](/privacy)
+- [Terms of Service](/agreement)
 - [Update description](/rel/update)
 
 
